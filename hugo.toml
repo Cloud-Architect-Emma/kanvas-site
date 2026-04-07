@@ -1,13 +1,11 @@
-baseURL = "http://www.kanvas.new"
+baseURL = "https://kanvas.new"
 title = "Kanvas"
 relativeURLs = true
 canonifyurls = false
 
-# Language settings
 contentDir = "content/en"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
-# Useful when translating.
 enableMissingTranslationPlaceholders = true
 
 [menu]
@@ -31,6 +29,5 @@ enableMissingTranslationPlaceholders = true
   dark-mode = true
   logo_light = "images/kanvas-logo-light.svg"
   logo_dark = "images/kanvas-logo-dark.svg"
-  description = "Infrastructure as Design for collaborative Cloud and Kubernetesmanagement"
-
-  canonicalBaseURL = "https://www.kanvas.new"
+  description = "Kanvas — a collaborative, visual environment for designing and managing cloud-native infrastructure."
+  canonicalBaseURL = "https://kanvas.new"
